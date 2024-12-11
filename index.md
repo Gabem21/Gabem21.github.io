@@ -3,6 +3,7 @@
 I am a computer engineering major at CSUF and I expect to graduate in 2028. 
 
 ## Favorite CPSC 120L Labs
+My GitHub profile is https://github.com/Gabem21.
 
 * Lab 7
 
