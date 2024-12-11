@@ -1,6 +1,6 @@
 # Gabriel Martinez's Portfolio
 
-I am a computer engineering major at CSUF and i expect to graduate in 2028. 
+I am a computer engineering major at CSUF and I expect to graduate in 2028. 
 
 ## Favorite CPSC 120L Labs
 
